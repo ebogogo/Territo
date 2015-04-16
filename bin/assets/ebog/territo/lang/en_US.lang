@@ -1,0 +1,16 @@
+item.ebogterrito_fractured_diamond.name=Fractured Diamond
+item.ebogterrito_drop_of_blood.name=Drop of Blood
+item.ebogterrito_unforged_blood_diamond.name=Un-forged Blood Diamond
+item.ebogterrito_diamond_shard.name=Diamond Shard
+item.ebogterrito_hammer_singleuse.name=Single Use Hammer
+item.ebogterrito_sharpened_diamond_axe.name=Sharpened Diamond Axe
+item.ebogterrito_sharpened_diamond_hoe.name=Sharpened Diamond Hoe
+item.ebogterrito_sharpened_diamond_pickaxe.name=Sharpened Diamond Pickaxe
+item.ebogterrito_sharpened_diamond_shovel.name=Sharpened Diamond Shovel
+item.ebogterrito_sharpened_diamond_sword.name=Sharpened Diamond Sword
+
+
+tile.ebogterrito_bloodstone_ore.name=Bloodstone Ore
+tile.ebogterrito_lantern.name=Lantern
+
+itemGroup.TerritoMainTab=Territo
